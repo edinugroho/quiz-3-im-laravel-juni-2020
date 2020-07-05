@@ -83,6 +83,10 @@
                 <div class="title m-b-md">
                     Sanbercode
                 </div>
+                <div>
+                    <img src="erd.png" alt="erd">
+                </div>
+                <p><i>Gambar erd</i></p>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
